@@ -1,11 +1,11 @@
 {
-  "name": "modtemplate",
-  "displayName": "Template",
-  "author": "[#8738ff[]]Sonnicon[[]]",
-  "description": "Gradle jar Mindustry mod template",
-  "version": "0",
-  "main": "lanthanum.mymod.myMod",
-  "minGameVersion": "105",
+  "name": "myMod",
+  "displayName": "My Mod",
+  "author": "lanthanide",
+  "description": "Just for learn how to mod",
+  "version": "0.1",
+  "main": "lanthanum.mymod",
+  "minGameVersion": "128",
   "dependencies": [],
   "hidden": false,
   "java": true
