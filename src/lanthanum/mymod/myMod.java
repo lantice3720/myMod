@@ -1,8 +1,8 @@
-package sonnicon.modtemplate;
+package lanthanum.mymod;
 
 import mindustry.mod.Mod;
 
-public class ModTemplate extends Mod{
+public class myMod extends Mod{
 
     @Override
     public void init(){
