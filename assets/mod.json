@@ -4,7 +4,7 @@
   "author": "[#8738ff[]]Sonnicon[[]]",
   "description": "Gradle jar Mindustry mod template",
   "version": "0",
-  "main": "sonnicon.modtemplate.ModTemplate",
+  "main": "lanthanum.mymod.myMod",
   "minGameVersion": "105",
   "dependencies": [],
   "hidden": false,

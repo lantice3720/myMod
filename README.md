@@ -1,7 +1,7 @@
 # Mindustry Mod Template
 A blank template for Mindustry mods with an existing Gradle configuration to compile and dex-ify, and Github Actions to automatically do both and upload the artifacts.
 
-## Compiling
+## Compiling ddasd
 JDK 8.\
 Task `dexify` requires `d8` from Android `build-tools` > `28.0.1`.
 
