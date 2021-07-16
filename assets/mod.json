@@ -1,11 +1,11 @@
 {
-  "name": "unitinfo",
-  "displayName": "Unit Infomation",
-  "author": "Sharlotte",
-  "description": "The mod displays more information for unit, such as health, armor, shield, weapon/weapon reload etc",
-  "version": "1.2",
-  "main": "UnitInfo.core.Main",
-  "minGameVersion": "126",
+  "name": "mymod",
+  "displayName": MY MOD,
+  "author": "lan",
+  "description": "Heh?",
+  "version": "0.1",
+  "main": "Lanthanum.core.Main",
+  "minGameVersion": "128",
   "dependencies": [],
   "hidden": true,
   "java": true
